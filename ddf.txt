@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI for All - by ALI</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #0f172a;
+      color: #f1f5f9;
+    }
+    header {
+      background: #1e293b;
+      padding: 1rem 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+      color: #38bdf8;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #facc15;
+    }
+    .cta {
+      background: #38bdf8;
+      padding: 1rem;
+      color: #000;
+      text-align: center;
+      margin-top: 2rem;
+      border-radius: 0.5rem;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #1e293b;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AI for All</h1>
+    <p>Created by ALI</p>
+  </header>
+
+  <section>
+    <h2>🚀 Welcome to the Future</h2>
+    <p>
+      AI (Artificial Intelligence), ML (Machine Learning), and NLP (Natural Language Processing) are transforming the world — from smart assistants like ChatGPT to robots, self-driving cars, and healthcare breakthroughs.
+    </p>
+
+    <h2>📚 Learn, Grow, and Build with AI</h2>
+    <p>
+      This website is made for everyone — students, dreamers, and tech lovers — to learn the basics of AI/ML/NLP and how to start your journey in Pakistan or globally. Whether you're a beginner or curious explorer, we got you.
+    </p>
+
+    <div class="cta">🌐 Start Exploring Today</div>
+  </section>
+
+  <footer>
+    Made with❤️ by ALI | AI for All © 2025
+  </footer>
+</body>
+</html>
